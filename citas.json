@@ -1,0 +1,108 @@
+[
+    {
+        "author": "frodo",
+        "quotes": [
+          "\"Oh, Sam.\"",
+          "\"Me alegro de estar aquí contigo, Sam\""
+        ]
+    },
+    {
+      "author": "bilbo",
+      "quotes": [
+        "\Me siento frágil, disperso como mantequilla untada sobre demasiado pan.\"",
+        "\"Es peligroso, Frodo, cruzar tu puerta. Pones un pie en el camino y si no cuidas tus pasos, nunca sabes a dónde te pueden llevar.\"",
+        "\"No conozco a la mitad de vosotros la mitad de lo que desearía, y lo que deseo es menos de la mitad de lo que la mitad merecéis.\""
+      ]
+    },
+    {
+      "author": "gandalf",
+      "quotes": [
+        "\"¡NO PUEDES PASAR!\"",
+        "\"Un mago nunca llega tarde. Ni pronto, llega exactamente cuando se lo propone.\"",
+        "\"Lo único que podemos decidir es qué hacer con el tiempo que se nos ha dado.\"",
+        "\"No seas ligero a la hora de adjudicar muerte o juicio, ni los sabios pueden discernir esos extremos.\"",
+        "\"Corred, insesatos!\"",
+        "\"¡Corre Sombragris! ¡Muéstranos lo que es la premura!\"",
+        "\"No he vencido al fuego y a la muerte para intercambiar falacias con un gusano sarnoso.\"",
+        "\"No diré no lloréis, pues no todas las lágrimas son amargas.\"",
+        "\"Los hobbits son criaturas sorprendentes, puedes aprender todas sus costumbres en un mes, y después de cien años, aún te sorprenden.\""
+      ]
+    },
+    {
+      "author": "sam",
+      "quotes": [
+        "\"¡Suéltale o te remato, patas largas!\"",
+        "\"No me abandone, señor Frodo.\"",
+        "\"¡Vamos, señor Frodo!. Cargar con el Anillo no podré, pero sí cargar con usted.\""
+      ]
+    },
+    {
+      "author": "aragorn",
+      "quotes": [
+        "\"Si con mi vida o mi muerte puedo protegerte, lo haré. Cuenta con mi espada.\"",
+        "\"Habría ido contigo hasta el final. Hasta el fuego de Mordor.\"",
+        "\"En este día lucharemos por todo lo que nuestro corazón ama de esta buena tierra.\"",
+        "\"No es más que la sombra de una ilusión lo que amas. No puedo darte lo que anhelas.\""
+      ]
+    },
+    {
+      "author": "legolas",
+      "quotes": [
+        "\"¡Se llevan a los hobbits a Isengard!\"",
+        "\"El sol se alza rojo, se ha vertido sangre esta noche.\""
+      ]
+    },
+    {
+      "author": "boromir",
+      "quotes": [
+        "\"Que extraño destino tener que sufrir tanto miedo y dudas por algo tan insignificante... tan irrisorio.\"",
+        "\"Te habría seguido, mi hermano, mi capitán, mi rey.\""
+      ]
+    },
+    {
+      "author": "gimli",
+      "quotes": [
+        "\"Certeza de muerte... mínima esperanza de éxito... ¿a qué esperamos?\"",
+        "\"Dadme vuestro nombre, caballero, y os daré el mío.\""
+      ]
+    },
+    {
+      "author": "gollum",
+      "quotes": [
+        "\"Mi tesoro.\"",
+        "\"Quédate con tus repugnantes papas.\""
+      ]
+    },
+    {
+      "author": "saruman",
+      "quotes": [
+        "\"No habrá amanecer para los hombres.\"",
+        "\"¡La amistad de Saruman no se desprecia a la ligera!\"",
+        "\"¡Cazadlos! No paréis hasta encontrarlos. No conocéis el miedo. No conocéis el dolor. Os saciaréis de carne humana.\""
+      ]
+    },
+    {
+      "author": "theoden",
+      "quotes": [
+        "\"Ningún padre debería enterrar a sus hijos.\"",
+        "\"Demasiada muerte, ¿qué hacen los hombres ante tan aciago destino?\"",
+        "\"¡Cabalgad hasta la desolación y el fin del mundo!\"",
+        "\"Si esto es nuestro final, haré que rubriquen uno que permanezca en la memoria.\"",
+        "\"Coraje despierta ahora por ira, holocausto y rojo amanecer.\""
+      ]
+    },
+    {
+      "author": "galadriel",
+      "quotes": [
+        "\"Esta misión te ha sido encomendada, y si tú no encuentras el camino... nadie lo hará.\"",
+        "\"Hasta el más pequeño puede cambiar el curso del futuro.\"",
+        "\"Y a ti, Frodo de La Comarca, te entrego la Luz de Earendil, nuestra mas preciada estrella. Que ella te ilumine en los lugares oscuros, cuando las demás luces se apaguen.\""
+      ]
+    },
+    {
+      "author": "barbol",
+      "quotes": [
+        "\"Lleva mucho tiempo pronunciar algo en lengua Ent, y nunca decimos nada a menos que merezca la pena y el tiempo que requiera decirlo.\""
+      ]
+    }
+]
