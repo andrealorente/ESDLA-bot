@@ -7,7 +7,7 @@ app.command('start', ({ from, reply }) => {
 });
 app.command('/character', (ctx) => {
    // /character legolas
-  let parts = ctx.message.text.split(" ");
+  var parts = ctx.message.text.split(" ");
 
   if(parts.length>1)
     var character = parts[1].toLowerCase();
