@@ -11,7 +11,7 @@
     "babel-preset-env": "^1.5.1"
   },
   "scripts": {
-    "start": "./node_modules/.bin/babel-node index.js -d https://lotrquotesbot.herokuapp.com/"
+    "start": "./node_modules/.bin/babel-node index.js"
   },
   "author": "Andrea Lorente <andrealorenteramon@gmail.com>",
   "license": "ISC"

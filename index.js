@@ -1,6 +1,11 @@
 const Telegraf = require('telegraf');
 const fs = require ('fs');
 
+var options = {
+    host: "lotrquotesbot.herokuapp.com",
+    port: 3333
+};
+
 const app = new Telegraf("414752663:AAG0d1MDSQomeSaIpHYQjSK-D5J2bD9OhGk");
 var citas = {};
 
