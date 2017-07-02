@@ -8,8 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "npm start index.js"
+    "start": "npm start index.js"
   },
-  "author": "andrealorenteramon@gmail.com",
+  "author": "Andrea Lorente <andrealorenteramon@gmail.com>",
   "license": "ISC"
 }
