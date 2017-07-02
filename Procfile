@@ -1,1 +1,1 @@
-worker: babel-node index.js
+worker: $(npm bin)/babel-node ./index.js
