@@ -1,0 +1,15 @@
+{
+  "name": "lotrquotes_bot",
+  "version": "1.0.0",
+  "description": "Bot de ESDLA.",
+  "main": "index.js",
+  "dependencies": {
+    "telegraf": "^3.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start index.js"
+  },
+  "author": "andrealorenteramon@gmail.com",
+  "license": "ISC"
+}
