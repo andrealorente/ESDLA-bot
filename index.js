@@ -1,11 +1,6 @@
 const Telegraf = require('telegraf');
 const fs = require ('fs');
 
-var options = {
-    host: "https://lotrquotesbot.herokuapp.com",
-    port: 5000
-};
-
 const app = new Telegraf("414752663:AAG0d1MDSQomeSaIpHYQjSK-D5J2bD9OhGk");
 var citas = {};
 
@@ -33,7 +28,7 @@ function getRandomQuoteFrom(person){
 
 };
 
-app.command('/character', (ctx) => {
+app.command('/personaje', (ctx) => {
    // /character legolas
   var parts = ctx.message.text.split(" ");
 
@@ -51,6 +46,8 @@ app.command('/character', (ctx) => {
   }
 });
 
-app.hears('Llegas tarde', (ctx) => ctx.replyWithMarkdown('*Un mago nunca llega tarde. Ni pronto, llega exactamente cuando se lo propone.*'));
+var frases = ['llegas tarde', 'Llegas tarde', 'llegas tarde.', 'Llegas tarde.'];
+
+app.hears(frases, (ctx) => ctx.replyWithMarkdown('*Un mago nunca llega tarde. Ni pronto, llega exactamente cuando se lo propone.*'));
 app.on('sticker', (ctx) => ctx.replyWithHTML('<i>Mucho se perdió entonces pero nadie queda ahora para recordarlo.</i>'));
 app.startPolling();
