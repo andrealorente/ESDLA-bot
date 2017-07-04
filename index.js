@@ -1,4 +1,5 @@
 const Telegraf = require('telegraf');
+const { Extra, Markup } = require('telegraf');
 const fs = require ('fs');
 
 const app = new Telegraf("414752663:AAG0d1MDSQomeSaIpHYQjSK-D5J2bD9OhGk");
@@ -27,6 +28,19 @@ function getRandomQuoteFrom(person){
   }
 
 };
+
+app.command('custom', (ctx) => {
+  return ctx.reply('Custom buttons keyboard', Markup
+    .keyboard([
+      ['🔍 Search', '😎 Popular'], // Row1 with 2 buttons
+      ['☸ Setting', '📞 Feedback'], // Row2 with 2 buttons
+      ['📢 Ads', '⭐️ Rate us', '👥 Share'] // Row3 with 3 buttons
+    ])
+    .oneTime()
+    .resize()
+    .extra()
+  )
+})
 
 app.command('/personaje', (ctx) => {
    // /character legolas

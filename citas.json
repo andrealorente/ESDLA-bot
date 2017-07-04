@@ -3,7 +3,11 @@
         "author": "frodo",
         "quotes": [
           "\"Oh, Sam.\"",
-          "\"Me alegro de estar aquí contigo, Sam\""
+          "\"Me alegro de estar contigo, Samsagaz Gamyi, aquí al final de todas las cosas.\"",
+          "\"No recuerdo el sabor de nada. Ni el arrullo del agua, ni el tacto de la hierba. Me hundo en la oscuridad. Siento que no hay nada entre la rueda de fuego y yo. Ahora le veo, con los ojos despiertos.\"",
+          "\"Veo La Comarca. El río Brandivino, Bolsón Cerrado. Los cohetes de Gandalf. Las luces de la fiesta del Árbol.\"",
+          "\"¿Cómo se retoma el hilo de toda una vida? ¿Cómo seguir adelante, cuando en tu corazón empiezas a entender que no hay regreso posible, que hay cosas que el tiempo no puede enmendar? Aquellas que hieren muy dentro, que dejan cicatriz.\"",
+          "\"Bilbo me contó un día que las grandes historias nunca terminan. Que cada uno de nosotros debe coger el relevo de la narración.\""
         ]
     },
     {
@@ -11,7 +15,8 @@
       "quotes": [
         "\"Me siento frágil, disperso como mantequilla untada sobre demasiado pan.\"",
         "\"Es peligroso, Frodo, cruzar tu puerta. Pones un pie en el camino y si no cuidas tus pasos, nunca sabes a dónde te pueden llevar.\"",
-        "\"No conozco a la mitad de vosotros la mitad de lo que desearía, y lo que deseo es menos de la mitad de lo que la mitad merecéis.\""
+        "\"No conozco a la mitad de vosotros la mitad de lo que desearía, y lo que deseo es menos de la mitad de lo que la mitad merecéis.\"",
+        "\"Creo que estoy preparado para otra aventura.\""
       ]
     },
     {
@@ -22,9 +27,12 @@
         "\"Lo único que podemos decidir es qué hacer con el tiempo que se nos ha dado.\"",
         "\"No seas ligero a la hora de adjudicar muerte o juicio, ni los sabios pueden discernir esos extremos.\"",
         "\"Corred, insensatos!\"",
+        "\"Soy Gandalf el Blanco y en los albores de la tempestad vuelvo a vosotros.\"",
         "\"¡Corre Sombragris! ¡Muéstranos lo que es la premura!\"",
+        "\"Vuestros dedos recordarían mejor su fuerza si empuñaran una espada.\"",
         "\"Tres mil vidas de hombres he hollado esta tierra, y ahora me falta tiempo.\"",
         "\"Espera mi llegada con la primera luz del quinto día. Al alba mira al este.\"",
+        "\"La ira de Sauron será terrible. Su devastación, veloz. La batalla del Abismo de Helm ha terminado. La batalla por la Tierra Media no ha hecho más que comenzar. Nuestras esperanzas residen en dos pequeños hobbits, perdidos en la inmensidad.\"",
         "\"No he vencido al fuego y a la muerte para intercambiar falacias con un gusano sarnoso.\"",
         "\"No diré no lloréis, pues no todas las lágrimas son amargas.\"",
         "\"Los hobbits son criaturas sorprendentes, puedes aprender todas sus costumbres en un mes, y después de cien años, aún te sorprenden.\""
@@ -35,7 +43,11 @@
       "quotes": [
         "\"¡Suéltale o te remato, patas largas!\"",
         "\"No me abandone, señor Frodo.\"",
-        "\"¡Vamos, señor Frodo!. Cargar con el Anillo no podré, pero sí cargar con usted.\""
+        "\"¡Señor Frodo! Venga, despierte. No me deje aquí solo, no vaya donde no pueda seguirle.\"",
+        "\"Mordor, el único lugar de la Tierra Media que no queremos ni ver, el mismo al que intentamos ir, y al que no podemos llegar.\"",
+        "\"¡Vamos, señor Frodo!. Cargar con el Anillo no podré, pero sí cargar con usted.\"",
+        "\"No deberíamos ni haber llegado hasta aquí... Pero henos aquí, igual que en las grandes historias, señor Frodo, las que realmente importan, llenas de oscuridad y de constantes peligros. Ésas de las que no quieres saber el final, porque ¿como van a acabar bien? ¿Cómo volverá el mundo a ser lo que era después de tanta maldad como ha sufrido?\"",
+        "\"Rosita Coto, bailando. Llevaba cintas en el pelo. Si me hubiera podido casar, habría sido con ella. Sólo con ella.\""
       ]
     },
     {
@@ -65,7 +77,9 @@
       "author": "gimli",
       "quotes": [
         "\"Certeza de muerte... mínima esperanza de éxito... ¿a qué esperamos?\"",
-        "\"Dadme vuestro nombre, caballero, y os daré el mío.\""
+        "\"Dadme vuestro nombre, caballero, y os daré el mío.\"",
+        "\"Soy un negado a campo traviesa, los enanos somos veloces en el llano, muy peligrosos en las distancias cortas.\"",
+        "\"¡Pícaros tunantes! Nos hacéis sufrir una búsqueda sin tregua y os encontramos festejando y... ¡fumando!\""
       ]
     },
     {
@@ -82,7 +96,22 @@
       "quotes": [
         "\"No habrá amanecer para los hombres.\"",
         "\"¡La amistad de Saruman no se desprecia a la ligera!\"",
+        "\"El mundo cambia. ¿Quién tendrá ahora la fuerza de hacer frente a los ejércitos de Isengard y Mordor? ¿De rebelarse al poder de Sauron y Saruman y la unión entre las dos torres? Unidos, mi señor Sauron, seremos reyes de la Tierra Media.\"",
         "\"¡Cazadlos! No paréis hasta encontrarlos. No conocéis el miedo. No conocéis el dolor. Os saciaréis de carne humana.\""
+      ]
+    },
+    {
+      "author": "merry",
+      "quotes": [
+        "\"Creo que cometimos un error saliendo de La Comarca, Pippin.\"",
+        "\"Sé que es tarde para echarse atrás. Sé que no hay motivo para la esperanza. Si fuera caballero de Rohan, capaz de grandes hazañas... pero no lo soy. Soy un hobbit. Sé que no salvaré la Tierra Media. Sólo quiero ayudar a mis amigos. A Frodo, a Sam, a Pippin.\""
+      ]
+    },
+    {
+      "author": "pippin",
+      "quotes": [
+        "\"Disfrutando del campo conquistado y gozando de las mieles de la justa victoria. El cerdo curado está especialmente delicioso.\"",
+        "\"No quiero luchar en una batalla, pero estar al borde de una de la cual no puedo escapar, es aún peor.\""
       ]
     },
     {
@@ -91,6 +120,7 @@
         "\"Ningún padre debería enterrar a sus hijos.\"",
         "\"Largo ha crecido el brazo de Saruman si cree que puede vencernos aquí.\"",
         "\"Demasiada muerte, ¿qué hacen los hombres ante tan aciago destino?\"",
+        "\"Dime, ¿por qué cabalgar en ayuda de aquéllos que no nos la prestaron?. ¿Qué debemos a Gondor?\"",
         "\"¡Cabalgad hasta la desolación y el fin del mundo!\"",
         "\"Si esto es nuestro final, haré que rubriquen uno que permanezca en la memoria.\"",
         "\"Coraje despierta ahora por ira, holocausto y rojo amanecer.\""
@@ -127,6 +157,8 @@
     {
       "author": "barbol",
       "quotes": [
+        "\"¿Árbol? No soy árbol, soy un Ent.\"",
+        "\"No estoy del lado de nadie, porque nadie esta de mi lado, pequeño orco. A nadie preocupan ya los bosques.\"",
         "\"Lleva mucho tiempo pronunciar algo en lengua Ent, y nunca decimos nada a menos que merezca la pena y el tiempo que requiera decirlo.\"",
         "\"Los Ents no pueden detener esta tormenta. Debemos adaptarnos a la situación, como siempre hemos hecho. Esta no es nuestra guerra.\"",
         "\"No hay término en élfico, lengua Ent o de los hombres, para describir este horror. Me las veré con Isengard esta noche, a roca y piedra.\"",
