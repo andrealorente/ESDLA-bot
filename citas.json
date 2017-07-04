@@ -23,6 +23,8 @@
         "\"No seas ligero a la hora de adjudicar muerte o juicio, ni los sabios pueden discernir esos extremos.\"",
         "\"Corred, insensatos!\"",
         "\"¡Corre Sombragris! ¡Muéstranos lo que es la premura!\"",
+        "\"Tres mil vidas de hombres he hollado esta tierra, y ahora me falta tiempo.\"",
+        "\"Espera mi llegada con la primera luz del quinto día. Al alba mira al este.\"",
         "\"No he vencido al fuego y a la muerte para intercambiar falacias con un gusano sarnoso.\"",
         "\"No diré no lloréis, pues no todas las lágrimas son amargas.\"",
         "\"Los hobbits son criaturas sorprendentes, puedes aprender todas sus costumbres en un mes, y después de cien años, aún te sorprenden.\""
@@ -71,7 +73,8 @@
       "quotes": [
         "\"Mi tesoro.\"",
         "\"Quédate con tus repugnantes papas.\"",
-        "\"¿Qué es papas, tesoro?\""
+        "\"¿Qué es papas, tesoro?\"",
+        "\"Sucios, falsos hobbits. ¡Nos lo robaron!\""
       ]
     },
     {
@@ -86,6 +89,7 @@
       "author": "theoden",
       "quotes": [
         "\"Ningún padre debería enterrar a sus hijos.\"",
+        "\"Largo ha crecido el brazo de Saruman si cree que puede vencernos aquí.\"",
         "\"Demasiada muerte, ¿qué hacen los hombres ante tan aciago destino?\"",
         "\"¡Cabalgad hasta la desolación y el fin del mundo!\"",
         "\"Si esto es nuestro final, haré que rubriquen uno que permanezca en la memoria.\"",
@@ -101,9 +105,32 @@
       ]
     },
     {
+      "author": "elrond",
+      "quotes": [
+        "\"Tú te consumirás en la oscuridad y en la duda, como un anochecer de invierno que llega sin estrellas. Aquí morarás, sumida en tu pesar, bajo los mortecinos árboles, hasta que el mundo cambie y saldes la cuenta de tus largos años de vida. Arwen, nada queda aquí para ti. Sólo muerte.\""
+      ]
+    },
+    {
+      "author": "eowyn",
+      "quotes": [
+        "\"No temo al dolor ni a la muerte.\"",
+        "\"Temo a una jaula. A empuñar sus barrotes hasta que la edad y la costumbre los acepte y toda opción al valor ceda al recuerdo y al deseo.\"",
+        "\"¡Yo no soy un hombre!\""
+      ]
+    },
+    {
+      "author": "faramir",
+      "quotes": [
+        "\"Esa era la respuesta a todos los enigmas. Heme aquí en estas soledades, con dos medianos, una hueste de hombres a mi servicio... y el Anillo de poder al alcance de mi mano. Haría que Faramir capitán de Gondor, mostrara su nobleza.\""
+      ]
+    },
+    {
       "author": "barbol",
       "quotes": [
-        "\"Lleva mucho tiempo pronunciar algo en lengua Ent, y nunca decimos nada a menos que merezca la pena y el tiempo que requiera decirlo.\""
+        "\"Lleva mucho tiempo pronunciar algo en lengua Ent, y nunca decimos nada a menos que merezca la pena y el tiempo que requiera decirlo.\"",
+        "\"Los Ents no pueden detener esta tormenta. Debemos adaptarnos a la situación, como siempre hemos hecho. Esta no es nuestra guerra.\"",
+        "\"No hay término en élfico, lengua Ent o de los hombres, para describir este horror. Me las veré con Isengard esta noche, a roca y piedra.\"",
+        "\"Los Ents irán a la guerra, aunque ello signifique nuestro final. La ultima marcha de los Ents.\""
       ]
     }
 ]
