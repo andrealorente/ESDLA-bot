@@ -12,7 +12,7 @@ app.command('start', ({ from, reply }) => {
     citas = JSON.parse(data);
   });
 
-  return reply('Bienvenido al mejor Bot de citas de El Señor de los Anillos, '+ from.first_name +'!. Di "Llegas tarde" o manda un sticker. También puedes usar el comando /character');
+  return reply('Bienvenido al mejor Bot de citas de El Señor de los Anillos, '+ from.first_name +'!. Di "Llegas tarde" o manda un sticker. También puedes usar el comando /personaje seguido del nombre');
 });
 
 function getRandomQuoteFrom(person){
