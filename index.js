@@ -24,23 +24,14 @@ function getRandomQuoteFrom(person){
       console.log(citas[i].quotes[random]);
       return citas[i].quotes[random];
     }
-
   }
-
 };
 
-app.command('custom', (ctx) => {
-  return ctx.reply('Custom buttons keyboard', Markup
-    .keyboard([
-      ['🔍 Search', '😎 Popular'], // Row1 with 2 buttons
-      ['☸ Setting', '📞 Feedback'], // Row2 with 2 buttons
-      ['📢 Ads', '⭐️ Rate us', '👥 Share'] // Row3 with 3 buttons
-    ])
-    .oneTime()
-    .resize()
-    .extra()
-  )
-})
+function getRandomQuote(){
+  var n = Math.floor(Math.random()*citas.length);
+  var n2 = Math.floor(Math.random()*citas[n].quotes.length);
+  return { author: citas[n].author, quote: citas[n].quotes[n2]};
+};
 
 app.command('/personaje', (ctx) => {
    // /character legolas
