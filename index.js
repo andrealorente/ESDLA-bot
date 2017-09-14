@@ -11,20 +11,29 @@ app.command('start', ({ from, reply }) => {
   fs.readFile("./citas.json", (err,data) =>{
     if(err) throw err;
     citas = JSON.parse(data);
+    console.log(citas);
   });
 
   return reply('Bienvenido al mejor Bot de citas de El Señor de los Anillos, '+ from.first_name +'!. Di "Llegas tarde" o manda un sticker. También puedes usar el comando /personaje seguido del nombre');
 });
 
 function getRandomQuoteFrom(person){
-  for(var i = 0; i<citas.length; i++){
-
+  fs.readFile("./citas.json", (err,data) =>{
+    if(err) throw err;
+    citas = JSON.parse(data);
+    console.log(citas);
+  });
+  console.log(citas);
+  for(var i=0; i<citas.length; i++){
+    console.log(i);
     if(citas[i].author == person){
       var random = Math.floor(Math.random() * citas[i].quotes.length);
       console.log(citas[i].quotes[random]);
       return citas[i].quotes[random];
     }
   }
+
+  return "No inventes personajes, pequeño hobbit.";
 };
 
 function getRandomQuote(){
@@ -37,12 +46,12 @@ app.command('/personaje', (ctx) => {
    // /character legolas
   var parts = ctx.message.text.split(" ");
 
-  if(parts.length>1)
+  if(parts.length>1){
     var character = parts[1].toLowerCase();
-  else {
+  }else {
     var character = "";
   }
-
+  console.log("character: " + character);
   if(character == "")
     ctx.reply('Escribe el nombre de algún personaje!!!');
   else{
