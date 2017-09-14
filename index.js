@@ -18,11 +18,13 @@ app.command('start', ({ from, reply }) => {
 });
 
 function getRandomQuoteFrom(person){
-  fs.readFile("./citas.json", (err,data) =>{
-    if(err) throw err;
-    citas = JSON.parse(data);
-  });
-
+  if(citas.length==0){
+    fs.readFile("./citas.json", (err,data) =>{
+      if(err) console.log("err: "+err);
+      citas = JSON.parse(data);
+    });
+  }
+  
   for(var i=0; i<citas.length; i++){
 
     if(citas[i].author == person){
