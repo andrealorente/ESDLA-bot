@@ -21,11 +21,10 @@ function getRandomQuoteFrom(person){
   fs.readFile("./citas.json", (err,data) =>{
     if(err) throw err;
     citas = JSON.parse(data);
-    console.log(citas);
   });
-  console.log(citas);
+
   for(var i=0; i<citas.length; i++){
-    console.log(i);
+
     if(citas[i].author == person){
       var random = Math.floor(Math.random() * citas[i].quotes.length);
       console.log(citas[i].quotes[random]);
@@ -33,7 +32,7 @@ function getRandomQuoteFrom(person){
     }
   }
 
-  return "No inventes personajes, pequeño hobbit.";
+  return '\"No inventes personajes, pequeño hobbit.\"';
 };
 
 function getRandomQuote(){
